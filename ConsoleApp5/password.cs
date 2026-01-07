@@ -2,9 +2,9 @@
 {
     public static void Run()
     {
-        Console.WriteLine("Нужно ввести пароль, ниже вам предоставиться ввеси его");
-        int count = 0;
-        int password = 0;
+
+        int correctPassword = 1234;
+        int password;
 
         while (password != 1234)
         {
