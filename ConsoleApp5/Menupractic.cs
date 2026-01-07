@@ -5,7 +5,7 @@
         Console.WriteLine("Выберите цифру: ");
         while (true)
         {
-            Console.WriteLine("1 - сказать привет");
+            Console.WriteLine("1 - сказать люблю Машу");
             Console.WriteLine("2 - Показать время");
             Console.WriteLine("0 - Выход");
             Console.WriteLine("Выберите пункт: ");
@@ -16,7 +16,7 @@
             }
             if (choise == 1)
             {
-                Console.WriteLine("Привет");
+                Console.WriteLine("ЛЮБЛЮ МАШУ");
             }
             else if (choise == 2)
             {
