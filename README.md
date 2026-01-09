@@ -1,1 +1,8 @@
-# ConsoleApp5
+C# While Practic
+Учебный проект для практики цикла while.
+
+Реализованно:
+
+ввод данных в цикле while
+меню
+проверка ввода через TryParse# ConsoleApp5
